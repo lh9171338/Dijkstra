@@ -40,5 +40,5 @@ roslaunch dijkstra dijkstra.launch
 # 3. Result  
 ![image](https://github.com/lh9171338/Dijkstra/blob/master/results/result.png)
 
-# 4. More resources
+# 4. More Resources
 - [Github link](https://github.com/lh9171338/Outline)
