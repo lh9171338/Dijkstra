@@ -1,5 +1,5 @@
 # 1. Introduction
->>This package can plan path by Dijkstra algorithm.
+>>This depository is a ROS package of Dijkstra algorithm.
 
 # 2. Usage
 ## 2.1 Subscribed Topics  
@@ -38,4 +38,7 @@ roslaunch dijkstra dijkstra.launch
 ```
 
 # 3. Result  
-![image](https://raw.githubusercontent.com/lh9171338/ROS/Dijkstra/results/result.png)
+![image](https://github.com/lh9171338/Dijkstra/blob/master/results/result.png)
+
+# 4. More resources
+- [Github link](https://github.com/lh9171338/Outline)
