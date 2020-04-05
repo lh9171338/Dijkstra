@@ -1,3 +1,6 @@
+[<img height="23" src="https://github.com/lh9171338/Outline/blob/master/icon.jpg"/>'](https://github.com/lh9171338/Outline) Dijkstra
+===
+
 # 1. Introduction
 >>This repository is a ROS package of Dijkstra algorithm.
 
@@ -39,6 +42,3 @@ roslaunch dijkstra dijkstra.launch
 
 # 3. Result  
 ![image](https://github.com/lh9171338/Dijkstra/blob/master/results/result.png)
-
-# 4. More Resources
-- [Github Link](https://github.com/lh9171338/Outline)
